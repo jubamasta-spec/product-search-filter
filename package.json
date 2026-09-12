@@ -1,0 +1,14 @@
+{
+  "name": "product-search-filter",
+  "version": "1.0.0",
+  "description": "A product grid with live search filtering",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["html", "css", "javascript"],
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}
